@@ -33,10 +33,11 @@
 Добавление фаила REAMME.md в репозиторий\
 **git add README.md**  
 Фиксируем первые изменения\
-**git commit -m "первая фиксация"**
-Переименовываем ветку *master* в ветку *main*  
-**git branch -M main**  
-добывляем связку локального репозитория с удаленным репозиторием на github
-**git remote add origin https://github.com/Andrey-GeekBrains/Test.git**
-загружаем локальный репозиторий с удаленным
+**git commit -m "первая фиксация"**\
+Переименовываем ветку *master* в ветку *main*\
+**git branch -M main**\
+добывляем связку локального репозитория с удаленным репозиторием на github\
+**git remote add origin https://github.com/Andrey-GeekBrains/Test.git**\
+загружаем локальный репозиторий с удаленным\
 **git push -u origin main**
+
